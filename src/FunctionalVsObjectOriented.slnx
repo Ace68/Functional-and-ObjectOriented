@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FunctionalWay/FunctionalWay.fsproj" />
+  <Project Path="ObjectOrientedWay/ObjectOrientedWay.csproj" Id="561d0a34-7fbe-4788-b9d8-dab237a209ef" />
+</Solution>

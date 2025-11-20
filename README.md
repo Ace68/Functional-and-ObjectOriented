@@ -6,7 +6,7 @@ Comparative examples showing how to solve the same problem using two different p
 
 This repository contains parallel implementations of classic algorithms, demonstrating how different approaches can solve the same problems. The goal is to highlight the conceptual differences, advantages, and disadvantages of each paradigm.
 
-## 🏗️ Struttura del Progetto
+## 🏗️ Project Structure
 
 ```text
 src/FunctionalVsObjectOriented/
@@ -22,9 +22,9 @@ src/FunctionalVsObjectOriented/
         └── MazeTest.cs     # Test unitari
 ```
 
-## 🧩 Problemi Implementati
+## 🧩 Implemented Issues
 
-### 1. Maze Solver (Risoluzione Labirinto)
+### 1. Maze Solver
 
 Finds all possible paths to exit a maze, avoiding walls and previously visited positions.
 
